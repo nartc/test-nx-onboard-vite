@@ -27,5 +27,10 @@
       }
     }
   ],
-  "nxCloudAccessToken": "ZDdiMGEyNjYtNzEyMS00MTQ0LWEyNGMtODJmMTY2OGJjODFhfHJlYWQtd3JpdGU="
+  "nxCloudAccessToken": "ZDdiMGEyNjYtNzEyMS00MTQ0LWEyNGMtODJmMTY2OGJjODFhfHJlYWQtd3JpdGU=",
+  "namedInputs": {
+    "sharedGlobals": [
+      "{workspaceRoot}/.github/workflows/ci.yml"
+    ]
+  }
 }
